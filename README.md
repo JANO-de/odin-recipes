@@ -1,2 +1,2 @@
 # odin-recipes
-a
+A recipe pages for learning html basics
